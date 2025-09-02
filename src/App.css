@@ -129,10 +129,15 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: #000;
+    background: transparent;
     color: white;
+    transition: background 0.3s ease;
     padding: 10px 20px;
   }
+.navbar.scrolled {
+  background: black;
+}
+
 }
 
 @media (max-width: 480px) {
