@@ -1,4 +1,5 @@
-🏡 Regal Realty – Real Estate Web App
+🏡![Uploading logo.png…]()
+ Regal Realty – Real Estate Web App
 
 A modern real estate website built with React + Vite, allowing users to browse properties, view details with image galleries, filter listings, and explore agents.
 
