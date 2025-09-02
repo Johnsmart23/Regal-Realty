@@ -122,13 +122,15 @@ body {
     margin-top: 0;
   }
   .user-icon {
-    margin-left: -100px;
+    margin-left: -80px;
     font-size: 1.2rem;
   }
   .navbar {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    background-color: #000;
+    color: white;
     padding: 10px 20px;
   }
 }

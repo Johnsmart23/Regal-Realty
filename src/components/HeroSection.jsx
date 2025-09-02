@@ -50,7 +50,7 @@ const HeroSection = () => {
                   <p>Houses Sold</p>
                 </div>
                 <div className="stat-box">
-                  <h3>300K+</h3>
+                  <h3>100+</h3>
                   <p>Trusted Agents</p>
                 </div>
               </div>
