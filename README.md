@@ -1,12 +1,54 @@
-# React + Vite
+🏡 Regal Realty – Real Estate Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern real estate website built with React + Vite, allowing users to browse properties, view details with image galleries, filter listings, and explore agents.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🏠 Property Listings – Browse available properties with gallery images.
 
-## Expanding the ESLint configuration
+🔍 Search & Filter – Easily find properties that match user preferences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖼 Image Galleries – Scrollable/toggleable property images.
+
+👤 User Accounts – Sign up & login functionality.
+
+🧑‍💼 Agent Pages – Agents can upload property details & images.
+
+📱 Responsive UI – Optimized for both desktop and mobile devices.
+
+⚡ Fast Build – Powered by Vite for lightning-fast dev experience.
+
+🛠 Tech Stack
+
+Frontend: React (with Vite)
+
+Routing: React Router DOM
+
+Styling: CSS 
+
+Icons: React Icons
+
+State Management: React Context (for user/session if needed)
+
+Deployment: Vercel
+
+📂 Project Structure
+
+estate/
+ ├── public/             # Static assets (images, icons, etc.)
+ ├── src/
+ │   ├── components/     # Reusable components (Header, Footer, etc.)
+ │   ├── pages/          # Pages (About, Account, Agents, Detail, Properties, etc.)
+ │   ├── context/        # React Context (User, etc.)
+ │   ├── App.jsx         # Main app entry
+ │   ├── main.jsx        # ReactDOM render
+ │   └── index.css       # Global styles
+ ├── package.json
+ ├── vite.config.js
+ └── README.md
+
+👨‍💻 Author
+
+Developed by [Johnsmart]
+
+📧 Contact: www.johnsmart170899@gmail.com
