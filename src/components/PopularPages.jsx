@@ -14,7 +14,7 @@ const properties = [
       '/images/detail 6.png',
     ],
     description:
-      'This is a six rooms and two pallor duplex, one big kitchen and two rooms and pallor boys quater, big space for motor park',
+      'This is a six rooms and two parlour duplex, one big kitchen and two rooms and parlour boys quater, big space for motor park',
   },
   {
     title: 'Duplex',
@@ -28,7 +28,7 @@ const properties = [
       '/images/detail 1.png',
     ],
     description:
-      'This is a six rooms and two pallor duplex, one big kitchen and two rooms and pallor boys quater, big space for motor park',
+      'This is a six rooms and two parlour duplex, one big kitchen and two rooms and parlour boys quater, big space for motor park',
   },
   {
     title: 'Duplex',
@@ -42,7 +42,7 @@ const properties = [
       '/images/detail 2.png',
     ],
     description:
-      'This is a six rooms and two pallor duplex, one big kitchen and two rooms and pallor boys quater, big space for motor park',
+      'This is a six rooms and two parlour duplex, one big kitchen and two rooms and parlour boys quater, big space for motor park',
   },
 ];
 
