@@ -18,7 +18,7 @@ const defaultProperties = [
       "/images/detail 6.png",
     ],
     description:
-      "This is a six-room, two-pallor duplex with one big kitchen, a pool, outdoor garden, a two-room boys' quarters, and a spacious car park.",
+      "This is a six-room, two-parlour duplex with one big kitchen, a pool, outdoor garden, a two-room boys' quarters, and a spacious car park.",
   },
   {
     title: "Luxury Villa",
@@ -38,7 +38,7 @@ const defaultProperties = [
       "Spacious villa featuring 6 bedrooms, a pool, luxury finishings, and beautiful gardens for outdoor relaxation.",
   },
   {
-    title: "Bongalow",
+    title: "Bungalow",
     location: "delta",
     type: "bungalow",
     price: 4000000,
@@ -69,7 +69,7 @@ const defaultProperties = [
       "/images/detail 2.png",
     ],
     description:
-      "We have a nice two rooms all en-suite and a pallor, a room self-contained boys' quarters, and a very big space for car park.",
+      "We have a nice two rooms all en-suite and a parlour, a room self-contained boys' quarters, and a very big space for car park.",
   },
   {
     title: "Duplex",
@@ -86,7 +86,7 @@ const defaultProperties = [
       "/images/detail 2.png",
     ],
     description:
-      "This is a six-room and two-pallor duplex, one big kitchen and a room and pallor boys' quarters, big space for car park.",
+      "This is a six-room and two-parlour duplex, one big kitchen and a room and pallor boys' quarters, big space for car park.",
   },
   {
     title: "Contemporary Mansion",
@@ -103,7 +103,7 @@ const defaultProperties = [
       "/images/detail 2.png",
     ],
     description:
-      "This is a four-room and two-pallor mansion with a big kitchen, two-room and pallor boys' quarters, children playground, a pool, and beautiful gardens.",
+      "This is a four-room and two-parlour mansion with a big kitchen, two-room and pallor boys' quarters, children playground, a pool, and beautiful gardens.",
   },
 ];
 
@@ -158,7 +158,7 @@ const Properties = () => {
             <option value="">Type</option>
             <option value="duplex">Duplex</option>
             <option value="villa">Luxury Villa</option>
-            <option value="bungalow">Bongalow</option>
+            <option value="bungalow">Bungalow</option>
             <option value="mansion">Mansion</option>
           </select>
 
